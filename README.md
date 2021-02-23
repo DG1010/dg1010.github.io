@@ -5,4 +5,5 @@
  <div class="image">
    <p class="caption">The game of baseball is romantic, you can't argue with that</p>
  </div>
+  <h6>&copy; Copyright. All Rights Reserved.</h6>
 </html>
